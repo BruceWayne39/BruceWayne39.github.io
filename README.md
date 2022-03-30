@@ -1,6 +1,5 @@
-<html data-cm-hook="1">
-<h1>Error 1111</h1>
-<h2>I love you have a good day :)</h2>
-<a href="#"><img src="https://i.pinimg.com/originals/e0/a5/67/e0a567021e98728d30b9fc7b2c7c5e51.jpg"></a>
-<p>You deserve to have a good day you deserve to feel alive every minute</p>
-<p>Stay harder better stronger <3</p> 
+<input type="text">
+<h1>Hello There :)<h1>
+<p>I am sure you are one of AmineTendo fan that what brings you here</p>
+  <img src="https://i1.sndcdn.com/avatars-xtfLPeqm41ZxHy5H-BCReKA-t240x240.jpg">
+  <p>Please click <a href="https://www.youtube.com/watch?v=38S2a8XrQcA" target="_blank">here</a> for a surprise</p>
